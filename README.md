@@ -1,4 +1,10 @@
 
+# Project Live Link:
+
+ https://smmahadee.github.io/easyCooking/
+
+
+
 ## Project Details:
 
   * It's a real life html, css & javascript project
